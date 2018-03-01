@@ -1,0 +1,16 @@
+Daily Scrum - Every Day at 9AM
+==============================
+
+1.What have I done/not done since last scrum?
+2.What do I have to do Before next scrum?
+3.What do I need help with? What do I need to find out?
+
+2018/02/28 Jianqiu Chn
+
+1.What has been done? 
+JPanel for game setting, JPanel for rules
+2.What do I have to do before next scrum?
+>Create Game Board
+>program the database so that user stats are showing properly
+3. What do I need help with?
+Create Game Board, need to figure out the programming side of game board.
